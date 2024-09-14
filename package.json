@@ -1,0 +1,23 @@
+{
+  "name": "count-html-files",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "A quick example of node counting html files in a subdir",
+  "main": "count-html-files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonkles/node-dir.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Benjamin Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bonkles/node-dir/issues"
+  },
+  "homepage": "https://github.com/Bonkles/node-dir#readme"
+}
